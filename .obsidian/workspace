@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/how/get-out-of-vim.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/how/get-out-of-vim.md"
+                "file": "README.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/how/get-out-of-vim.md"
+                "file": "README.md"
               }
             }
           },
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "programming/how/Untitled.md",
     "README.md",
+    "programming/how-to/get-out-of-vim.md",
+    "programming/how-to/download-a-repository-in-a-specific-folder.md",
+    "programming/how-to/about-how-to.md",
+    "workshop/about-my-workshop.md",
+    "programming/how-to/Untitled.md",
+    "workshop/about-workshop.md",
+    "programming/how/Untitled.md",
     "README.md.md",
-    "my workshop.md",
-    "workshop/about.md",
-    "workshop/Workshop.md",
-    "Workshop.md",
-    "Untitled.md",
-    "programming/how/download-a-repository-in-a-specific-folder.md",
-    "download-a-repository-in-a-specific-folder.md"
+    "my workshop.md"
   ]
 }
