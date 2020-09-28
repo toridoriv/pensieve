@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -73,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -94,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
+    "workshop/My Workshop.md",
+    "programming/how-to/Get Out of Vim.md",
     "programming/how-to/get-out-of-vim.md",
+    "programming/how-to/How To.md",
+    "programming/how-to/Download a Repository in a Specific Folder.md",
     "programming/how-to/download-a-repository-in-a-specific-folder.md",
     "programming/how-to/about-how-to.md",
     "workshop/about-my-workshop.md",
-    "programming/how-to/Untitled.md",
-    "workshop/about-workshop.md",
-    "programming/how/Untitled.md",
-    "README.md.md",
-    "my workshop.md"
+    "My Workshop.md",
+    "README.md"
   ]
 }
