@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "pluginEnabledStatus": {
     "file-explorer": true,
     "global-search": true,
@@ -8,7 +8,15 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
+    "word-count": true,
+    "custom-css": true,
+    "translucency": true,
+    "outline": true,
+    "zk-prefixer": true,
+    "page-preview": true,
+    "tag-pane": true
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachments"
 }
