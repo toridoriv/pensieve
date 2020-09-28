@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "a7ac2853607dba02",
+    "type": "split",
+    "children": [
+      {
+        "id": "9386236a4302feee",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f2d382005d93c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1ad6cb19f667229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da67daa0701826e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b2e10cb8a60d5ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fead6e4528ddba4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "248bec0a3b30043e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3754614088b7e0e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "README.md.md",
+    "my workshop.md",
+    "workshop/about.md",
+    "workshop/Workshop.md",
+    "Workshop.md",
+    "Untitled.md",
+    "programming/how/download-a-repository-in-a-specific-folder.md",
+    "download-a-repository-in-a-specific-folder.md"
+  ]
+}
