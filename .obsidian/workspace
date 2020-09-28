@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "workshop/palettes/Bleach Blonde Baby.md",
             "mode": "preview"
           }
         }
@@ -44,11 +44,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 147
+    "width": 252
   },
   "right": {
     "id": "fead6e4528ddba4a",
@@ -64,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "workshop/palettes/Bleach Blonde Baby.md"
               }
             }
           },
@@ -74,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "workshop/palettes/Bleach Blonde Baby.md"
               }
             }
           },
@@ -86,16 +87,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "README.md",
-    "writings/non-fiction/El Método Zettelkasten en la Oficina.md",
     "workshop/palettes/Bleach Blonde Baby.md",
+    "writings/non-fiction/El Método Zettelkasten en la Oficina.md",
+    "README.md",
     "writings/non-fiction/Untitled.md",
     "workshop/palettes/Cotton Candy Dreams.md",
     "workshop/My Workshop.md",
