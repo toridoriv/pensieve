@@ -4,4 +4,11 @@ Workshop is a space dedicated to store data related to my digital life. Configur
 
 So, welcome to my workshop and don’t forget to bring coffee ☕️
 
+## That's My Style 🎶
+
+### [[ Color Palettes ]]
+ 
+- [[ Cotton Candy Dreams ]] 🍬
+- [[ Bleach Blonde Baby ]]
+
 **Tags:** #digital-life #about-page 

@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9386236a4302feee",
+        "id": "05b43e5a287cd45f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -45,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 147
   },
   "right": {
     "id": "fead6e4528ddba4a",
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -68,7 +73,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -83,19 +90,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "README.md",
+    "writings/non-fiction/El Método Zettelkasten en la Oficina.md",
+    "workshop/palettes/Bleach Blonde Baby.md",
+    "writings/non-fiction/Untitled.md",
+    "workshop/palettes/Cotton Candy Dreams.md",
     "workshop/My Workshop.md",
+    "workshop/Bleach Blonde Baby.md",
+    "workshop/Cotton Candy Dreams.md",
     "programming/how-to/Get Out of Vim.md",
-    "programming/how-to/get-out-of-vim.md",
-    "programming/how-to/How To.md",
-    "programming/how-to/Download a Repository in a Specific Folder.md",
-    "programming/how-to/download-a-repository-in-a-specific-folder.md",
-    "programming/how-to/about-how-to.md",
-    "workshop/about-my-workshop.md",
-    "My Workshop.md",
-    "README.md"
+    "programming/how-to/get-out-of-vim.md"
   ]
 }
