@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "programming/how/get-out-of-vim.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "programming/how/get-out-of-vim.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "programming/how/get-out-of-vim.md"
               }
             }
           },
@@ -95,6 +95,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "programming/how/Untitled.md",
     "README.md",
     "README.md.md",
     "my workshop.md",
